@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Aditya Tiwari 👋
 
-<!--
-**Aditya-Ace/Aditya-Ace** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Full Stack Software Developer focused on building production-ready web applications using React, TypeScript, Next.js, Node.js, and SPFx.
 
-Here are some ideas to get you started:
+## What I work on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- React and TypeScript frontend development
+- Next.js applications
+- Node.js backend development
+- SPFx / SharePoint Framework web parts
+- Frontend UI/UX fixes
+- Responsive design improvements
+- Bug fixing and production issue resolution
+- Clean, maintainable component architecture
+
+## Open-source contribution focus
+
+I'm currently contributing to open-source projects through focused bug fixes, frontend improvements, TypeScript fixes, and UI/UX polish.
+
+I prefer small, clean, well-tested pull requests that solve the actual issue without unnecessary changes.
+
+## Tech Stack
+
+React • TypeScript • Next.js • Node.js • SPFx • SharePoint • React Native • Vite
