@@ -15,7 +15,7 @@ I'm a Full Stack Software Developer focused on building production-ready web app
 
 ## Open-source contribution focus
 
-I'm currently contributing to open-source projects through focused bug fixes, frontend improvements, TypeScript fixes, and UI/UX polish.
+I'm currently contributing to open-source projects through focused frontend bug fixes, TypeScript improvements, responsive UI fixes, and clean, maintainable pull requests.
 
 I prefer small, clean, well-tested pull requests that solve the actual issue without unnecessary changes.
 
